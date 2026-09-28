@@ -39,4 +39,4 @@ npm run preview
 
 ## Hasil Deployment
 
-[Buka aplikasi yang telah di-deploy](https://your-deployment-url.example.com)
+[Link Deployment](https://ta-2-wad-05.vercel.app/)
